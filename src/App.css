@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* 나중에 reset.css 옮기기  */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
